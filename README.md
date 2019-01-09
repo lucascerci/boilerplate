@@ -2,7 +2,7 @@
 
 ****Template example to new projects****
 
-To use
+Usage: 
 
 git clone https://github.com/lucascerci/boilerplate
 
